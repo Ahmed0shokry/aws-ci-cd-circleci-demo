@@ -1,6 +1,6 @@
-#Infrasructure:
+# Infrasructure:
 
-###AWS Services:
+### AWS Services:
 
     *EC2 - 1 instance
 
@@ -10,7 +10,7 @@
 
     *Beanstalk - 1 enviroment
 
-###Request life cycle: 
+### Request life cycle: 
 
     - an user request frontend website as an interface.
 
