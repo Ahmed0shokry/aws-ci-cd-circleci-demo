@@ -1,13 +1,13 @@
-#App Dependencies:
+# App Dependencies:
 
-###AWS Services:
+### AWS Services:
 
     EC2, S3, Beanstalk, RDS, AIM
 
-###frames and Programing languages: 
+### frames and Programing languages: 
 
     HTML/CSS, TypeScript, NodeJs, ReactJs, Postgres
 
-###Other Services: 
+### Other Services: 
 
     GitHub (version control), CirclCi (CI/CD)
