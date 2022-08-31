@@ -1,6 +1,6 @@
-#CircleCi cycle:
+# CircleCi cycle:
 
-####CI/CD:
+#### CI/CD:
 
     - after pushing commit(s) to the main branch on github, CircleCi is subscribed to that event , so it will trigger changes and start deployment as :
     
