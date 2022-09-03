@@ -1,8 +1,8 @@
 branch-defaults:
   default:
-    environment: the-third-project-dev
-deploy: 
-    artifact: www/Archive.zip    
+    environment: the-third-project-dev2
+deploy:
+  artifact: www/Archive.zip
 environment-defaults:
   the-third-project-dev:
     branch: null
